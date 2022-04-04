@@ -1,0 +1,139 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.2f1 (8fd9074bf66c) revision 9427207'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19044.1586; Version 2009; 64bit' Language: 'ja' Physical Memory: 8099 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/user/Documents/xyz
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+65242
+Successfully changed project path to: C:/Users/user/Documents/xyz
+C:/Users/user/Documents/xyz
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 98.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/user/Documents/xyz/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   
+    VRAM:     2048 MB
+    Driver:   20.19.15.4549
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56336
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007761 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 99.93 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.689 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.008277 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.266 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.13 seconds
+Refreshing native plugins compatible for Editor in 1.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1422 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.1 MB.
+System memory in use after: 65.2 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 1852.
+Total: 4.371700 ms (FindLiveObjects: 0.364600 ms CreateObjectMapping: 0.138200 ms MarkObjects: 3.730100 ms  DeleteObjects: 0.136300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/camera.cs
+  artifactKey: Guid(bb1cb23b81b42e546acd5eecbbdf2230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/camera.cs using Guid(bb1cb23b81b42e546acd5eecbbdf2230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d296ce3679f64710ed2a295388ee529') in 0.076714 seconds
+  Import took 0.083968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.513584 seconds.
+  path: Assets/Scripts/Cubes/CubeScript.cs
+  artifactKey: Guid(0180f86fd690e844683b2a653a05b1ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cubes/CubeScript.cs using Guid(0180f86fd690e844683b2a653a05b1ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68878ffe54293f5cc33a68bff23f170f') in 0.012380 seconds
+  Import took 0.016604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.466487 seconds.
+  path: Assets/Scripts/Cubes/CoreScript.cs
+  artifactKey: Guid(0ce233414b14c874faaa12b5498f1e68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cubes/CoreScript.cs using Guid(0ce233414b14c874faaa12b5498f1e68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '740f05a117f8f1ff9fdf9797c8347905') in 0.014620 seconds
+  Import took 0.020214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.984011 seconds.
+  path: Assets/Scripts/Cubes/CoreScript.cs
+  artifactKey: Guid(0ce233414b14c874faaa12b5498f1e68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cubes/CoreScript.cs using Guid(0ce233414b14c874faaa12b5498f1e68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '740f05a117f8f1ff9fdf9797c8347905') in 0.010500 seconds
+  Import took 0.014134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 81.367579 seconds.
+  path: Assets/Scripts/Cubes/WhiteScript.cs
+  artifactKey: Guid(73d2e904800f0c14cb06f331ae05668d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cubes/WhiteScript.cs using Guid(73d2e904800f0c14cb06f331ae05668d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9599147e7f5416e3a70ffc075ed249b') in 0.012785 seconds
+  Import took 0.021008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002826 seconds.
+  path: Assets/Scripts/Cubes/WhiteScript.cs
+  artifactKey: Guid(73d2e904800f0c14cb06f331ae05668d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cubes/WhiteScript.cs using Guid(73d2e904800f0c14cb06f331ae05668d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9599147e7f5416e3a70ffc075ed249b') in 0.015122 seconds
+  Import took 0.020074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.787496 seconds.
+  path: Assets/Scripts/Cubes/RedScript.cs
+  artifactKey: Guid(41dd149c9e1ce0341bb2242c3fb2a730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cubes/RedScript.cs using Guid(41dd149c9e1ce0341bb2242c3fb2a730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00cdb83bc2c1eaa51525bdd9e0fd852e') in 0.017993 seconds
+  Import took 0.024694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000788 seconds.
+  path: Assets/Scripts/Cubes/RedScript.cs
+  artifactKey: Guid(41dd149c9e1ce0341bb2242c3fb2a730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Cubes/RedScript.cs using Guid(41dd149c9e1ce0341bb2242c3fb2a730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00cdb83bc2c1eaa51525bdd9e0fd852e') in 0.016350 seconds
+  Import took 0.020543 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
